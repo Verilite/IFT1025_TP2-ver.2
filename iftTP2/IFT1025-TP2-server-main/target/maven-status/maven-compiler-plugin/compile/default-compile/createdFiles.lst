@@ -1,0 +1,5 @@
+server\models\RegistrationForm.class
+server\ServerLauncher.class
+server\EventHandler.class
+server\models\Course.class
+server\Server.class

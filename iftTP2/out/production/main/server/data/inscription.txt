@@ -1,0 +1,9 @@
+Automne	IFT2255	12345678	Michalis	Famelis	mfamelis@iro.umontreal.ca
+Hiver	IFT2125	12345678	John	Doe	jdoe@gmail.com
+Ete	IFT2256	98765432	Joe	Mama	jm2345@hotmail.com
+Hiver	Algorithmique	123456	Jaeheon	Kim	jaeheonkim@hotmail.com
+Automne	Genie_Logiciel	123456	Jaeheon	Kim	jaeheonkim@hotmail.com
+Automne	Genie_Logiciel	777777	oui	oui	oui@oui.oui
+Automne	IFT1227	123123	Jaeheon	Kim	asdf@adsf.adsf
+Automne	IFT1227	121212	a	s	aa@a.a
+Hiver	IFT2125	564546	asdf	asdf	asdf@asdf.asdf
