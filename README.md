@@ -6,4 +6,4 @@ et on a partagé et fait tous nos travaux sur Discord. Donc, je vais définir ic
 membre a fait:
 
 Jaeheon Kim - Fabrication du code, documentation de code, révision final du code, création du vidéo
-Seifeddine Maaroufi - Fabrication du code, documentation du code, vérification des fonctionnements du code
+Seifeddine Maaroufi - Fabrication du code principal, documentation du code, vérification des fonctionnements du code
