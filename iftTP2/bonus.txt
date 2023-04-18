@@ -1,0 +1,11 @@
+En faisant les tâches du serveur dans un Thread séparé pour chaque utilisateur, on peux générer plusieurs
+utilisateurs en même temps. Cependant, il faut faire attention à ne pas écrire/lire du même fichier en même temps
+car ceci peux causer des erreurs tels que: corruption des données, perte de données, etc.
+Ceci peux être résolu en utilisant un Lock qui fait que certaines parties du code ne peuvent s'exécuter qu'en
+série et non en parallèle.
+
+En mode démonstration bonus, le server se bloque dans une boucle infinie
+dès qu'il a fini de répondre à une commande 'Charger'.
+Observation: malgré la présence de la boucle infinie, le serveur ne bloquera pas et continueras à servir
+ses clients parce qu'il va utiliser des Threads séparées pour générer chaque commande d'un client.
+Par contre, la RAM va prendre cher...
